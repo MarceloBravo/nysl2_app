@@ -1,0 +1,14 @@
+.content{
+    color: white;
+}
+
+img{
+    opacity: .1;
+}
+
+@media (min-width: 316px) and (max-width: 1032px){
+    .container-fluid__row__col__group{
+        padding: 0 5%;
+    }
+}
+
